@@ -4,6 +4,6 @@ print "hello world..!!!"
 
 print "Hey..!! This side nikki goyal"
 
-x=2
-y=9
+x=3
+y=2
 z=x+y
